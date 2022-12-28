@@ -26,7 +26,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Flan Casero</h2>
+            <h3>Flan Casero</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -35,7 +35,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Tiramisu</h2>
+            <h3>Tiramisu</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -44,7 +44,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Cheescake</h2>
+            <h3>Cheescake</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -53,7 +53,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Helado 2 Bochas</h2>
+            <h3>Helado 2 Bochas</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -62,7 +62,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Coulant</h2>
+            <h3>Coulant</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -71,7 +71,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Panqueque Clasico</h2>
+            <h3>Panqueque Clasico</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -80,7 +80,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Torta Balcarse</h2>
+            <h3>Torta Balcarse</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -89,7 +89,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Brownie Chocolate</h2>
+            <h3>Brownie Chocolate</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -98,7 +98,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Sorbete 2 Bolas</h2>
+            <h3>Sorbete 2 Bolas</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -107,7 +107,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Tabla de Quesos</h2>
+            <h3>Tabla de Quesos</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -116,7 +116,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Macedonia</h2>
+            <h3>Macedonia</h3>
           </div>
           <div className={styles.flan}>
             <Image 
@@ -125,7 +125,7 @@ export default function Home() {
               width={40}
               height={40}
             />
-            <h2>Lemon Pie</h2>
+            <h3>Lemon Pie</h3>
           </div>
         </div>
         <div className={styles.end}>

@@ -26,19 +26,21 @@
   margin: 1%;
   padding: 10px;
   border: 1px solid black;
+  display: grid;
+  grid-template-areas: "logo name";
 }
 
 .img{
   margin-right: 20%;
+  grid-area: logo;
+  
 }
 
 .flan h2 {
-  display: inline-block;
-  
-  
+  display: block;
+  grid-area: name;
 }
 
 .end {
   text-align: center;
-  
 }
